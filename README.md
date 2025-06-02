@@ -17,7 +17,7 @@
   Currently focused on:<br/>
   🚀 Infrastructure as Code (Terraform, Ansible)<br/>
   ☸️ Kubernetes & Helm Chart Management<br/>
-  📦 Containerization with Docker & Podman<br/>
+  📦 Containerization with Docker<br/>
   📊 Observability with Prometheus, Grafana, Loki<br/>
   🛡️ Securing pipelines and deployment workflows<br/>
 </p>
@@ -27,10 +27,6 @@
 ### 💼 Experience
 
 - 🔧 **DevOps Engineer @ Addinn Group** (Current)
-- ☁️ Cloud-Native Platform Deployment & Monitoring (Freightsure, Copa-Transforme)
-- 🐳 GitLab CI/CD, Kubernetes, PostgreSQL Automation
-- 💡 Infrastructure Optimization & VM Management (Proxmox, Velero)
-- 📜 Contributor to tenant-deployer & backup automation tools
 
 ---
 
@@ -75,16 +71,16 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/yassine-ben-houria-360620267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank">
+  <a href="mailto:yassinebenhouria1919@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/benhouria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
