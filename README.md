@@ -43,7 +43,7 @@ I’m a **DevOps Engineer** passionate about automating infrastructure, streamli
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -53,7 +53,8 @@ I’m a **DevOps Engineer** passionate about automating infrastructure, streamli
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhouria&layout=compact&theme=tokyonight&hide_border=true" alt="Yassine's Top Languages"/>
 </p>
-
+-->
+<!--
 ---
 
 ### 🏆 GitHub Achievements
@@ -63,7 +64,7 @@ I’m a **DevOps Engineer** passionate about automating infrastructure, streamli
 </p>
 
 ---
-
+-->
 ### 🤝 Connect with Me
 
 <p align="center">
