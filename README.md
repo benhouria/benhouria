@@ -1,26 +1,22 @@
-<h1 align="center">Hello World! I'm Yassine 👋</h1>
+<h1 align="center">👋 Hello World! I'm Yassine Ben Houria</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benhouria&style=flat-square" alt="Profile Views" />
 </div>
 
-<br/>
-
-
 ---
 
 ### 👨‍💻 About Me
 
-<p>
-  I’m a DevOps Engineer with a passion for automating infrastructure, streamlining CI/CD pipelines, and building scalable, secure platforms.  
-  <br/><br/>
-  Currently focused on:<br/>
-  🚀 Infrastructure as Code (Terraform, Ansible)<br/>
-  ☸️ Kubernetes & Helm Chart Management<br/>
-  📦 Containerization with Docker<br/>
-  📊 Observability with Prometheus, Grafana, Loki<br/>
-  🛡️ Securing pipelines and deployment workflows<br/>
-</p>
+I’m a **DevOps Engineer** passionate about automating infrastructure, streamlining CI/CD pipelines, and building scalable, secure platforms.
+
+**Currently focusing on:**
+
+- 🚀 Infrastructure as Code (Terraform, Ansible)
+- ☸️ Kubernetes & Helm Chart Management
+- 📦 Containerization with Docker
+- 📊 Observability with Prometheus, Grafana, Loki
+- 🛡️ Securing pipelines and deployment workflows
 
 ---
 
@@ -51,11 +47,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benhouria&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benhouria&show_icons=true&theme=tokyonight&hide_border=true" alt="Yassine's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benhouria&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benhouria&theme=tokyonight&hide_border=true" alt="Yassine's GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhouria&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhouria&layout=compact&theme=tokyonight&hide_border=true" alt="Yassine's Top Languages"/>
 </p>
 
 ---
@@ -63,7 +59,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benhouria&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benhouria&theme=onedark&no-bg=true&no-frame=true" alt="Yassine's GitHub Trophies"/>
 </p>
 
 ---
@@ -72,15 +68,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-ben-houria-360620267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:yassinebenhouria1919@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/benhouria" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" />
+  <!-- Replace 'https://your-portfolio-link.com' with your actual portfolio URL -->
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
