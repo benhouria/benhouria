@@ -77,8 +77,4 @@ I’m a **DevOps Engineer** passionate about automating infrastructure, streamli
   <a href="https://github.com/benhouria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Replace 'https://your-portfolio-link.com' with your actual portfolio URL -->
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
